@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **DSA And MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/coderyogesh?tab=repositories](https://github.com/coderyogesh?tab=repositories)
-
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **yogeshrj1433@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UotyjtqyUs8pQyLE7Ue6Q70HJNtoyxdN/view?usp=drive_link](https://drive.google.com/file/d/1UotyjtqyUs8pQyLE7Ue6Q70HJNtoyxdN/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to Listen Hip-Hop**
 
